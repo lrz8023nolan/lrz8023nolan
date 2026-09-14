@@ -26,8 +26,8 @@
 
 I'm an AI algorithm engineer at a top2 CRO company, China, building data science and machine
 learning pipelines for chemistry, biology and new drug discovery, mainly in HPLC/LC-MS. I hold an M.Sc. in Biomolecular 
-Engineering and Health Informatics from HKUST (Hong Kong University of Science and Technology). But actually, when 
-I was an undergraduate, my major was biological science and focused on CRISPR/Cas gene editting technology.
+Engineering and Health Informatics from HKUST (Hong Kong University of Science and Technology) and a B.Sc. from NWAFU,
+China. Actually, when I was an undergraduate, my major was biological science and focused on CRISPR/Cas gene editting technology.
 
 My current work focuses on automating liquid chromatography QC analysis — parsing instrument
 raw data, training deep learning models for peak-level and sample-level release decisions,
