@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <b>An AI algorithm engineer working on machine learning for drug discovery and analytical chemistry.</b>
+  <b>An AI algorithm engineer working on deep learning for drug discovery and analytical chemistry.</b>
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 
 ## 🙋 About Me
 
-I'm an AI algorithm engineer at a top2 CRO company, Beijing, China, building data science and machine
+I'm an AI algorithm engineer at a top2 CRO company, Beijing, China, building data science and deep
 learning pipelines for chemistry, biology and new drug discovery, mainly in HPLC/LC-MS. I hold an M.Sc. in Biomolecular 
 Engineering and Health Informatics from HKUST (Hong Kong University of Science and Technology) and a B.Sc. from NWAFU,
 China. Actually, when I was an undergraduate, my major was biological science and focused on CRISPR/Cas gene editting technology.
